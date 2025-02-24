@@ -1,29 +1,25 @@
-Summary: 
-I analyzed social media engagement, comparing ad vs. non-ad posts, assessing positive comments' impact, and segmenting users by activity using statistical analysis and visualization.
+📌 Summary
+📊 I analyzed social media engagement, comparing advertisement vs. non-advertisement posts, assessing the impact of positive comments, and segmenting users by activity level using statistical analysis and data visualization.
 
-Solution:
-
+🚀 Solution & Key Steps
 1️⃣ Data Processing & Cleaning
+✔ Removed missing/duplicate values
+✔ Formatted date fields correctly
 
-Removed missing/duplicate values
+2️⃣ Exploratory Data Analysis (EDA)
+🔍 Compared advertisement vs. non-advertisement posts
+🔍 Analyzed the effect of positive comments on engagement
+🔍 Segmented users based on activity level
 
-Converted dates to proper format
+3️⃣ Visualization & Statistical Analysis
+📊 Used Seaborn & Matplotlib for data visualization
+📊 Conducted T-tests & quartile analysis for deeper insights
 
-2️⃣ Exploratory Analysis
+📌 Approach
+I started by cleaning and preprocessing the data, ensuring consistency by removing duplicates and handling missing values. Next, I performed exploratory analysis, comparing engagement metrics across different post types and investigating the influence of positive comments. Using Seaborn and Matplotlib, I visualized key trends with boxplots, scatterplots, and histograms. Finally, I applied T-tests and quartile analysis to derive meaningful insights about user behavior and engagement patterns.
 
-Compared ad vs. non-ad posts
-
-Analyzed positive comments' impact
-
-Segmented users by activity
-
-3️⃣ Visualization & Statistics
-
-Used Seaborn & Matplotlib
-
-Conducted T-tests & quartile analysis
-
-
-
-Approach: 
-I cleaned the data by removing duplicates and missing values, then formatted date fields. I analyzed engagement by comparing ad vs. non-ad posts, assessing positive comments’ impact, and segmenting users by activity. Using Seaborn and Matplotlib, I visualized trends with boxplots and scatterplots. Finally, I applied T-tests and quartile analysis to identify key engagement patterns and user behavior insights.
+📌 Tools & Libraries Used
+🛠 Python (Pandas, NumPy)
+📊 Visualization (Seaborn, Matplotlib)
+📈 Statistical Analysis (Scipy, Statsmodels)
+📂 Jupyter Notebook
