@@ -1,7 +1,8 @@
 Summary: 
 I analyzed social media engagement, comparing ad vs. non-ad posts, assessing positive comments' impact, and segmenting users by activity using statistical analysis and visualization.
 
-Solution: 
+Solution:
+
 1️⃣ Data Processing & Cleaning
 
 Removed missing/duplicate values
