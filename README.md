@@ -1,7 +1,7 @@
-Summary
+Summary: 
 I analyzed social media engagement, comparing ad vs. non-ad posts, assessing positive comments' impact, and segmenting users by activity using statistical analysis and visualization.
 
-Solution
+Solution: 
 1️⃣ Data Processing & Cleaning
 
 Removed missing/duplicate values
@@ -24,5 +24,5 @@ Conducted T-tests & quartile analysis
 
 
 
-Approach
+Approach: 
 I cleaned the data by removing duplicates and missing values, then formatted date fields. I analyzed engagement by comparing ad vs. non-ad posts, assessing positive comments’ impact, and segmenting users by activity. Using Seaborn and Matplotlib, I visualized trends with boxplots and scatterplots. Finally, I applied T-tests and quartile analysis to identify key engagement patterns and user behavior insights.
